@@ -1,0 +1,5 @@
+{
+  "name": "NovaCalc Scientific",
+  "description": "A high-performance scientific calculator with advanced graphing, historical tracking, and AI-powered mathematical explanations using Gemini.",
+  "requestFramePermissions": []
+}
